@@ -4,3 +4,7 @@ This repo is dedicated to further work on biomedical sciences projects as discus
 
 ## Related repos
 - [Linking PCR python snippets](https://github.com/beebs-dev/lpcr-python-snippets)
+
+## Videos
+- [Linking PCR Design Tool](https://www.youtube.com/watch?v=fHxwWsUl0cY)
+- [Multisequence Alignment Analyzer for DNA & RNA](https://www.youtube.com/watch?v=G3-tEhbjKIo)
