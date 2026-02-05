@@ -6,9 +6,11 @@ For short-from communications: please use the [**beebs.dev Discord**](https://di
 
 For long-form communications: please use the [**beebs.dev Discussions**](https://github.com/orgs/beebs-dev/discussions).
 
-## Related repos
-- [Linking PCR python snippets](https://github.com/beebs-dev/lpcr-python-snippets)
-
 ## Videos
 - [Linking PCR Design Tool](https://www.youtube.com/watch?v=fHxwWsUl0cY)
 - [Multisequence Alignment Analyzer for DNA & RNA](https://www.youtube.com/watch?v=G3-tEhbjKIo)
+
+## Related repos
+- [Linking PCR python snippets](https://github.com/beebs-dev/lpcr-python-snippets)
+- [Alignment Analyzer](https://github.com/thavlik/alignmentanalyzer) (code associated with the videos)
+
