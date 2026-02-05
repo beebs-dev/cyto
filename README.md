@@ -13,4 +13,4 @@ For long-form communications: please use the [**beebs.dev Discussions**](https:/
 ## Related repos
 - [Linking PCR python snippets](https://github.com/beebs-dev/lpcr-python-snippets)
 - [Alignment Analyzer](https://github.com/thavlik/alignmentanalyzer) (code associated with the videos)
-
+- [mirbase](https://github.com/thavlik/mirbase)
